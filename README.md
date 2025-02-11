@@ -36,10 +36,6 @@ Feel free to contribute by submitting issues, feature requests, or pull requests
 
 ---
 
-**License:** MIT License
-
-**Contact:** [Your Name or Contact Information]
-
 ### End of Description
 
 This structured description will help potential collaborators or users understand the purpose of the repository, its features, and how to use it effectively.
